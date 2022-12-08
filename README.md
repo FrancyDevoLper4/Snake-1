@@ -9,6 +9,3 @@
 * App da scrivere Visual studio code spck editor nodejs atom notepad++ 
 * Linguaggi da utilizzare per database sql
 
-{
-  {% youtube  %}
-}
